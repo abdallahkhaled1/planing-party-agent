@@ -21,6 +21,6 @@ Check out the live interactive space on Hugging Face:
 
 ## 📦 Installation & Setup
 ```bash
-git clone [https://github.com/YOUR_USERNAME/AlfredAgent.git](https://github.com/YOUR_USERNAME/AlfredAgent.git)
+git clone [https://github.com/abdallahkhaled1/AlfredAgent.git](https://github.com/YOUR_USERNAME/AlfredAgent.git)
 cd AlfredAgent
 pip install -r requirements.txt
